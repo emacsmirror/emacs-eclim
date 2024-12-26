@@ -2,6 +2,8 @@
 ;;
 ;; Copyright (C) 2009, 2012  Tassilo Horn <tassilo@member.fsf.org>
 ;;
+;; Package-Requires: ((dash "2.11.0") (json "1.2") (popup "0.5.2") (s "1.9.0") (cl-lib "0.5") (yasnippet "0.10.0"))
+;;
 ;; This program is free software: you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
 ;; the Free Software Foundation, either version 3 of the License, or
